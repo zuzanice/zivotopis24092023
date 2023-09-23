@@ -1,0 +1,62 @@
+Mgr. Zuzana Nedasová
+Test analytička/Testerka
+
+Kontakty
+Address: Kytlická 4, 190 00, Praha 9
+Mobile phone number: 739 303 079 
+E-mail: zuzka.prochazkovic@gmail.com 
+
+Vzdělání
+2005 – 2014		Právnická fakulta Karlovy univerzity - Právo a právní věda 
+01/2012 - 05/2012 	Hong Kong Baptist University 
+
+Certifkáty a kurzy
+07/2019 		ISTQB – Foundation Level
+01/2017 		Testing Academy, Cleverlance 
+08/2016 		Introduction to programming – Java, Czechitas 
+2005 			First Certificate in English (FCE) 
+
+
+Pracovní zkušenosti
+02/2017 - now 	Cleverlance
+Projects: 		O2 - Release
+Implementation of changes based on business requests and customer experience.
+		
+O2 - Simple Online Company 
+Main target of the project was to consolidate IT systems, processes, business process and customer care. 
+
+Position:		Test Analyst / Tester 
+Type of work:		Analysis of project documentation 
+Preparation of test cases (integration, E2E and regression tests) 
+Execution of test cases (SOAP UI, HP QC, check results in ORACLE databases and application logs on UNIX servers) 
+Testing the area of creation and sending documents and notification (SMS/E-mail), and its saving into data archive – P8 
+Cooperation with business analytics and development team 
+Creation of manuals of operation and for testing (Jira, Confluence) 
+
+
+01/2015 – 7/2016 	Slevomat 
+Position		Manager of online catalogue 
+Type of work: 	Responsibility for overall setting of offers from relevant categories. Evaluation of business potential, graphical and copywriting processing 
+
+03/2013 – 12/2014 	Allmedia4u, s.r.o. 
+Position		Junior Account Manager 
+Type of work: 	Providing PR support to clients, organizing events, media relations, writing articles, monitoring (clients: Globus, Equa bank, Bageterie Boulevard, Urban district Prague 8). 
+
+05/2010 - 03/2011	Law Firm Rudolf & partners 
+Position 		Paralegal 
+Type of work	Writing basic law documents, communication with courts, clients, and offices, errands. 
+
+
+LANGUAGES 
+English -Very good knowledge of spoken and written 
+German, Polish Beginner 
+
+TOOLS AND TECHIQUES 
+Oracle SQL Developer – knowledge of SQL, SOAP UI, XML requests, Jira, Enterprise Architect, Postman, MS Office 
+Basic knowledge of WordPress 
+
+HOBBIES 
+Orienteering run, literature, traveling 
+
+REFERENCES 
+Team leader from O2 SOC: Josef Píša, tel.: 739 108 925
